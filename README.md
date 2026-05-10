@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="220" src="./assets/logo.png" />
 
 # 🎵 SpotWave
 
