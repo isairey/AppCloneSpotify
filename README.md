@@ -54,19 +54,7 @@ El proyecto está orientado al aprendizaje y práctica de:
 
 ---
 
-# 📸 Preview
 
-<div align="center">
-
-<img src="./assets/screenshots/home.png" width="260"/>
-
-<img src="./assets/screenshots/player.png" width="260"/>
-
-<img src="./assets/screenshots/library.png" width="260"/>
-
-</div>
-
----
 
 # ✨ Características
 
@@ -178,7 +166,7 @@ El proyecto está orientado al aprendizaje y práctica de:
 # 📂 Estructura del Proyecto
 
 ```bash
-SpotWave/
+AppCloneSpotify/
 │
 ├── app/                     # Aplicación principal Android
 ├── ui/                      # Interfaces y pantallas
@@ -198,7 +186,7 @@ SpotWave/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/SpotWave
+git clone https://github.com/isairey/AppCloneSpotify
 ```
 
 ---
@@ -206,7 +194,7 @@ git clone https://github.com/isairey/SpotWave
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd SpotWave
+cd AppCloneSpotify
 ```
 
 ---
